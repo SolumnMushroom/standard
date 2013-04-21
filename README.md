@@ -1,0 +1,4 @@
+standard
+========
+
+A general repository
